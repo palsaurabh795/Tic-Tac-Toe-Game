@@ -1,9 +1,6 @@
 🎮 Tic Tac Toe Game
 A classic Tic-Tac-Toe (Noughts and Crosses) game built with HTML, CSS, and JavaScript. Play against a friend on the same device in this simple, responsive, and interactive browser-based game.
 
-📸 Demo
-![Image](screenshot.png)
-
 🚀 Features
 🕹️ 2-Player local gameplay (Player X & Player O)
 
